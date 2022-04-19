@@ -4,7 +4,10 @@
  - Menos fraudes -> Com um software, é possível ter tickets eletrônicos, evitando fraudes;
  - Menos custo com colaboradores -> Com a automação, você tem a necessidade de ter menos colaboradores,
 	revertendo esse custo para mais investimentos em tecnologias.
- - Facilidade na gestão -> 
+ - Agilidade -> redução de filas e congestionamento com o aumento da agilidade no fluxo de entrada e saída;
+ - Versatilidade - facilidade de operação para controle de rotativos/avulsos, mensalistas, credenciados, entre outros
+ - Facilidade na gestão ->  acompanhamento em tempo real das operações de entradas, pagamentos e saídas, através de diversos
+ 	relatórios e consultas, via acesso remoto pela internet.
 
 # Principais tecnologias 
 
@@ -12,9 +15,13 @@
 	caixa, faturamentos, periodo de estadia do cliente, quantidade de clientes que passaram no seu estacionamento
 	no dia ou no mês.
  - Cancelas eletrônicas -> Com a cancela sendo automatizada, é minimizado a chance de erro humano, facilitando o registro
-	de entradas e saídas de carros. 
+	de entradas e saídas de carros. E nessas cancelas, terá um sistema de orientação por voz para maior acessibilidade
+	e entendimento do cliente.
 - Leitores de placa -> Isso também otimiza o tempo e tira a necessidade de ter uma pessoa para fazer esse controle, evitando
-	erros de digitação. Após realizar a leitura, será gerado um ticket automaticamente. 
+	erros de digitação. Após realizar a leitura, será gerado um ticket automaticamente. Além disso, para carros que tem 
+	credenciais ou planos mensais, o reconhecimento é feito de forma automática, não tendo a necessidade de gerar um ticket
+	novo para o cliente. Outrossim, pode-se adicionar também placas que não são bem-vindas, como de clientes que cometeram algo
+	imoral ou antiético dentro do estacionamento. 
 - Totens de entrada e saída -> Irão servir para impressão dos tickets gerado pela leitora de placas e também para validação
 	e leitura do bilhete quando o cliente for sair do estacionamento, verificando se este já foi pago. 
 - Equipamentos de AutoPagamentos -> Essa é mais uma solução que reduz a necessidade de ter uma pessoa para realizar este 
