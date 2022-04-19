@@ -1,3 +1,3 @@
 # ProjetoEstacionamento
 
-- Projeto de estacionamento da matéria do Junior Amaral
+- Projeto de estacionamento da matéria Engenharia de Software do Junior Amaral
